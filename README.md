@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Abilaash S S</h1>
-<h3 align="center">A passionate Machine Learning and Data Science Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abilaashss&label=Profile%20views&color=0e75b6&style=flat" alt="Abilaashss" /> </p>8
 
