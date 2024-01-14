@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abilaashss&label=Profile%20views&color=0e75b6&style=flat" alt="Abilaashss" /> </p>8
 
-- 🌱 I’m currently learning new ML algorithms and working on Computer Vision Projects**
+- 🌱 I’m currently looking out for collaborated projects in Generative AI and Computer Vision
 
 - 📫 Reach out to me : **abilaashss14@gmail.com**
 
