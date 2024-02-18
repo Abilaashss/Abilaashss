@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Abilaash S S</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abilaashss&label=Profile%20views&color=0e75b6&style=flat" alt="Abilaashss" /> </p>8
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abilaashss&label=Profile%20views&color=0e75b6&style=flat" alt="Abilaashss" /> </p>
 
-- 🌱 I’m currently looking out for collaborated projects in Generative AI and Computer Vision
+- 🌱 I’m currently looking out for Collaboration for projects in Generative AI and Computer Vision
 
-- 📫 Reach out to me : **abilaashss14@gmail.com**
+- 📫 Reach out to me: **abilaashss14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
