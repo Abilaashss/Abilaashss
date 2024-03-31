@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Abilaash S S</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer and Aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abilaashss&label=Profile%20views&color=0e75b6&style=flat" alt="Abilaashss" /> </p>
 
-- 🌱 I’m currently looking out for Collaboration for projects in Generative AI and Computer Vision
+- 🌱 I’m currently looking out for Collaborations on Computer Vision and LLM Projects
 
 - 📫 Reach out to me: **abilaashss14@gmail.com**
 
