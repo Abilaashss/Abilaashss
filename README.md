@@ -1,5 +1,7 @@
 # Hi there, I'm S S Abilaash! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abilaashss&style=flat-square&color=blue)  
+
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills. Here's a bit about me:
 
 ## 🚀 About Me
