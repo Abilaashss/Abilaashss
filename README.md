@@ -3,6 +3,9 @@
 <!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S%20S%20ABILAASH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
+<!-- Anime Character Avatar -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime Coding"/>
+
 <!-- Animated Title with Multiple Lines -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FFE6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;LLM+%26+Agent+Specialist+%7C+Computer+Vision+Expert;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
@@ -13,6 +16,13 @@
   <img src="https://komarev.com/ghpvc/?username=Abilaashss&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Abilaashss?style=for-the-badge&color=blue&labelColor=1c1c1c" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Abilaashss?style=for-the-badge&color=yellow&labelColor=1c1c1c" alt="GitHub Stars" />
+</p>
+
+<!-- Total Commits Counter Badge -->
+<p>
+  <img src="https://badges.strrl.dev/commits/all/Abilaashss?style=for-the-badge&color=00ff41&labelColor=1c1c1c" alt="Total Commits" />
+  <img src="https://badges.strrl.dev/repos/Abilaashss?style=for-the-badge&color=00d9ff&labelColor=1c1c1c" alt="Total Repos" />
+  <img src="https://badges.strrl.dev/prs/all/Abilaashss?style=for-the-badge&color=ff6b6b&labelColor=1c1c1c" alt="Total PRs" />
 </p>
 
 <!-- Enhanced Social Media Links -->
@@ -173,12 +183,146 @@ const abilaash = {
 </div>
 
 
+<!-- Anime Character Vibes Section -->
+<div align="center">
+
+## 🎌 𝗔𝗡𝗜𝗠𝗘 𝗩𝗜𝗕𝗘𝗦 - 𝗠𝗬 𝗖𝗢𝗗𝗜𝗡𝗚 𝗣𝗘𝗥𝗦𝗢𝗡𝗔
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+<br><br>
+
+**⚡ Spirit Animal: L from Death Note**
+
+```yaml
+Traits:
+  - 🧠 Analytical Mind
+  - 🎯 Problem-Solving Genius
+  - 🔍 Detail-Oriented
+  - 💡 Out-of-Box Thinking
+  
+Coding Style:
+  - "I'll solve this... my way"
+  - Strategic approach
+  - Never gives up
+```
+
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/3o6ZsYwX5gDtgwKrBe/giphy.gif" width="200"/>
+<br><br>
+
+**🚀 Energy Level: All Might Mode**
+
+```yaml
+Work Ethic:
+  - 💪 "PLUS ULTRA!" mentality
+  - 🔥 100% dedication
+  - ⚡ Lightning fast delivery
+  - 🌟 Never settles for less
+  
+Philosophy:
+  - "Go Beyond! Plus Ultra!"
+  - Exceed expectations
+  - Be the symbol of code quality
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Anime Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20ones%20who%20should%20code%20are%20those%20prepared%20to%20debug&author=Inspired%20by%20Code%20Geass" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
+<!-- GitHub Achievements Section -->
+<div align="center">
+
+## 🎖️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 & 𝗕𝗔𝗗𝗚𝗘𝗦
+
+<!-- Achievement Badges Display -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abilaashss&theme=tokyonight" alt="Profile Details"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌟 Pull Shark
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
+<br>
+*Merged PRs Expert*
+
+</td>
+<td align="center" width="33%">
+
+### ⭐ Starstruck
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"/>
+<br>
+*Earned Stars*
+
+</td>
+<td align="center" width="33%">
+
+### 🔐 YOLO
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
+<br>
+*Merged without review*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Arctic Code Vault
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80"/>
+<br>
+*Code Preserved*
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Quickdraw
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
+<br>
+*Swift Actions*
+
+</td>
+<td align="center" width="33%">
+
+### 🎭 Pair Extraordinaire
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"/>
+<br>
+*Co-authored Commits*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
 <!-- GitHub Trophies with Enhanced Display -->
 <div align="center">
 
 ## 🏆 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abilaashss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&rank=-C,-?"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abilaashss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7"/>
 
 </div>
 
@@ -195,6 +339,17 @@ const abilaash = {
 </div>
 
 <div align="center">
+
+<!-- 3D Contribution Chart -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abilaashss&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+<br>
+
+<!-- Total Commits Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abilaashss&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abilaashss&theme=tokyonight" alt="Stats"/>
+
+<br>
   
 <table>
   <tr>
@@ -219,6 +374,12 @@ const abilaash = {
     </td>
   </tr>
 </table>
+
+<!-- Additional Stats Cards -->
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abilaashss&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abilaashss&theme=tokyonight" alt="Most Commit Language"/>
 
 
 
@@ -386,6 +547,11 @@ Learn Faster!
 
 <br><br>
 
+<!-- Random Anime Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 <br>
@@ -402,5 +568,9 @@ Learn Faster!
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<!-- Contribution Snake Animation - Requires GitHub Actions Setup -->
+<!-- To enable: Create .github/workflows/snake.yml workflow to generate the snake animation -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" onerror="this.style.display='none'"/>
 
 </div>
