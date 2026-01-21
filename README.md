@@ -220,12 +220,7 @@ const abilaash = {
   </tr>
 </table>
 
-<!-- GitHub Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abilaashss/Abilaashss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abilaashss/Abilaashss/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abilaashss/Abilaashss/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 </div>
 
@@ -313,31 +308,6 @@ Leadership:
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Abilaash))
-    Working On
-      AI Agents 🤖
-      Large Language Models 🧠
-      Computer Vision Systems 👁️
-    Learning
-      SpringBoot 🍃
-      Angular 🅰️
-      Microservices ⚙️
-    Open For
-      Backend Development 💻
-      ML/AI Projects 🤖
-      LLM Applications 🚀
-      Gen AI Solutions ✨
-    Ask Me About
-      Learning Techniques 📚
-      Time Management ⏱️
-      ML/DL/LLMs 🧠
-      Career Strategy 🎯
-```
-
-</div>
-
 <table align="center">
 <tr>
 <td align="center" width="20%">
@@ -387,6 +357,8 @@ Learn Faster!
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
