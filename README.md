@@ -8,7 +8,7 @@
 
 <!-- Animated Title with Multiple Lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FFE6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;LLM+%26+Agent+Specialist+%7C+Computer+Vision+Expert;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FFE6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;LLM+%26+Agent+Specialist+%7C++%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 
