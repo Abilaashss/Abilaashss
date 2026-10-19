@@ -2014,10 +2014,9 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="475.1128118377597" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="475.1128118377597" y="0" width="318.86848047544373" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="793.9812923132034" y="0" width="113.62406302679453" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="907.6053553399979" y="0" width="12.394644660002003" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="514.5438655373165" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="514.5438655373165" y="0" width="388.85644890294776" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="903.4003144402643" y="0" width="16.599685559735757" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2029,7 +2028,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>51.64%</div>
+                                <div>55.93%</div>
                             </small>
                         </div>
                     </section>
@@ -2042,20 +2041,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>34.66%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>12.35%</div>
+                                <div>42.27%</div>
                             </small>
                         </div>
                     </section>
@@ -2068,9 +2054,11 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.35%</div>
+                                <div>1.8%</div>
                             </small>
                         </div>
+                    </section>
+                    <section>
                     </section>
                 </div>
             </section>
