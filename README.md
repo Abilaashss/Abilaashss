@@ -1,54 +1,114 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg"><img alt="Abilaash S S. Software Development Engineer at BNY, building Revyn." src="./assets/hero-dark.svg" width="100%"></picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://abilaash.in"><b>abilaash.in</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/abilaash-s-s-59254724b/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:abilaashss14@gmail.com">Email</a>
-</p>
+<h1>Abilaash S S</h1>
 
-<br>
+<b>Software Engineer at BNY</b> &nbsp;·&nbsp; Building <a href="https://revyn.in"><b>Revyn</b></a>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/now-bny-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/now-bny-light.svg"><img alt="Now: Software Development Engineer at BNY" src="./assets/now-bny-dark.svg" width="48.5%"></picture>&nbsp;&nbsp;
-  <a href="https://revyn.in"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/now-revyn-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/now-revyn-light.svg"><img alt="Building: Revyn, AI sales intelligence" src="./assets/now-revyn-dark.svg" width="48.5%"></picture></a>
-</p>
+<sub>I build AI products that hold up in the real world: agents, voice, and the systems underneath them.</sub>
 
-<br>
+<a href="https://abilaash.in">abilaash.in</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/abilaash-s-s-59254724b/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:abilaashss14@gmail.com">abilaashss14@gmail.com</a>
 
-<h3 align="center">Selected work</h3>
-
-<p align="center">
-  <a href="https://github.com/Abilaashss/FinSense"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tile-finsense-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/tile-finsense-light.svg"><img alt="FinSense" src="./assets/tile-finsense-dark.svg" width="31.5%"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/Abilaashss/AWS-Hack_AI-For-Bharat"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tile-bharat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/tile-bharat-light.svg"><img alt="AI for Bharat" src="./assets/tile-bharat-dark.svg" width="31.5%"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/Abilaashss/RAG-X"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tile-ragx-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/tile-ragx-light.svg"><img alt="RAG-X" src="./assets/tile-ragx-dark.svg" width="31.5%"></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Abilaashss/PaperPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tile-paperpulse-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/tile-paperpulse-light.svg"><img alt="PaperPulse" src="./assets/tile-paperpulse-dark.svg" width="31.5%"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/Abilaashss/GradeA-gent"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tile-gradea-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/tile-gradea-light.svg"><img alt="GradeA-gent" src="./assets/tile-gradea-dark.svg" width="31.5%"></picture></a>&nbsp;&nbsp;
-  <a href="https://github.com/Abilaashss/Life-Coach"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tile-lifecoach-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/tile-lifecoach-light.svg"><img alt="Life Coach" src="./assets/tile-lifecoach-dark.svg" width="31.5%"></picture></a>
-</p>
-
-<br>
-
-<h3 align="center">Toolbox</h3>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg"><img alt="LangGraph, PyTorch, Python, TypeScript, Go, React, Postgres, Cloudflare, AWS and more" src="./assets/stack-dark.svg" width="100%"></picture>
-</p>
-
-<p align="center"><sub>
-  Built under the clock at &nbsp;Smart India Hackathon 2024 · Intel Unnati 2024 · Adobe GenSolve · Standard Chartered · AWS AI for Bharat · BNY Service Design Jam · Learnify Hack · AgentHacks
-</sub></p>
+</div>
 
 <br>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"><img alt="Let's build something real." src="./assets/footer-dark.svg" width="100%"></picture>
+  <img src="metrics/isocalendar.svg" alt="Contribution calendar" width="49%">
+  <img src="metrics/languages.svg" alt="Most used languages" width="49%">
 </p>
 
+<br>
+
+### Now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**BNY**<br>
+Software Development Engineer
+
+</td>
+<td width="50%" valign="top">
+
+**[Revyn](https://revyn.in)**<br>
+Building AI sales intelligence for revenue teams
+
+</td>
+</tr>
+</table>
+
+### Selected work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[FinSense](https://github.com/Abilaashss/FinSense)**<br>
+<sub>An AI branch manager that interviews loan applicants in Tamil or English.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[AI for Bharat](https://github.com/Abilaashss/AWS-Hack_AI-For-Bharat)**<br>
+<sub>A multi-agent studio that rewrites one idea for every audience.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[RAG-X](https://github.com/Abilaashss/RAG-X)**<br>
+<sub>Search that blends meaning, keywords, price and specs into one ranking.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**[PaperPulse](https://github.com/Abilaashss/PaperPulse)**<br>
+<sub>A research copilot that surfaces trends and gaps across papers.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[GradeA-gent](https://github.com/Abilaashss/GradeA-gent)**<br>
+<sub>Turns your notes into summaries, flashcards and adaptive quizzes.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[Life Coach](https://github.com/Abilaashss/Life-Coach)**<br>
+<sub>A coach that sees your tasks, mood and focus, and nudges at the right time.</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <a href="mailto:abilaashss14@gmail.com"><b>Say hello</b></a> &nbsp;·&nbsp;
-  <a href="https://revyn.in">revyn.in</a>
+  <img src="metrics/habits.svg" alt="Coding habits" width="49%">
+  <img src="metrics/lines.svg" alt="Lines of code" width="49%">
 </p>
+<p align="center">
+  <img src="metrics/notable.svg" alt="Notable contributions" width="49%">
+  <img src="metrics/achievements.svg" alt="Achievements" width="49%">
+</p>
+
+<br>
+
+### Toolbox
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,go,java,react,nextjs,fastapi,pytorch,postgres,redis,cloudflare,aws,docker&theme=light">
+    <img alt="Python, TypeScript, Go, Java, React, Next.js, FastAPI, PyTorch, Postgres, Redis, Cloudflare, AWS, Docker" src="https://skillicons.dev/icons?i=py,ts,go,java,react,nextjs,fastapi,pytorch,postgres,redis,cloudflare,aws,docker&theme=dark">
+  </picture>
+</p>
+
+<sub>Built under the clock at Smart India Hackathon 2024 · Intel Unnati · Adobe GenSolve · Standard Chartered · AWS AI for Bharat · BNY Service Design Jam · Learnify · AgentHacks</sub>
+
+<br>
+
+<p align="center"><sub>Cards refresh daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub></p>
