@@ -28,6 +28,7 @@ jobs:
           debug: yes
           repositories: 100
           repositories_batch: 25
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
