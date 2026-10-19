@@ -27,7 +27,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_order: isocalendar, languages
           repositories: 100
-          repositories_batch: 25
+          repositories_batch: 10
           repositories_affiliations: owner, collaborator, organization_member
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -62,7 +62,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_order: isocalendar, languages
           repositories: 100
-          repositories_batch: 25
+          repositories_batch: 10
           repositories_affiliations: owner, collaborator, organization_member
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
