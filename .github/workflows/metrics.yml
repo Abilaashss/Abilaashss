@@ -25,7 +25,6 @@ jobs:
           base: ""
           config_display: large
           config_timezone: Asia/Kolkata
-          debug: yes
           repositories: 100
           repositories_batch: 25
           repositories_affiliations: owner, collaborator, organization_member
@@ -34,8 +33,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_ignored: html, css, jupyter notebook, procfile, dockerfile, makefile, shell
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
+          plugin_languages_ignored: html, css, jupyter notebook, procfile, dockerfile, makefile, shell, plpgsql, mdx, mako
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit, pull_request
