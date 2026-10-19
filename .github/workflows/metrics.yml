@@ -4,11 +4,11 @@ on:
   schedule: [{cron: "30 0 * * *"}]
   workflow_dispatch:
   push:
-    branches: [main, readme-preview]
+    branches: [main]
     paths: [".github/workflows/metrics.yml"]
 
 concurrency:
-  group: metrics-${{ github.ref }}
+  group: metrics
   cancel-in-progress: true
 
 jobs:
