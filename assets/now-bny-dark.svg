@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="NOW: BNY, Software Development Engineer">
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#b6f36a"/></linearGradient><clipPath id="f"><rect x=".5" y=".5" width="599" height="229" rx="18"/></clipPath>
+<radialGradient id="gl" cx="1" cy="0" r="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+<style>.s{font-family:ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+ .lab{font-size:12px;letter-spacing:.24em;fill:#22d3ee;font-weight:700}
+ .ti{font-size:40px;font-weight:800;letter-spacing:-.03em;fill:#f2f4f8}
+ .sub{font-size:17px;fill:#8b93a7}
+ .note{font-size:12px;letter-spacing:.08em;fill:#4b5266}
+ .bar{fill:url(#cg);transform-box:fill-box;transform-origin:center;animation:eq 1.3s ease-in-out infinite alternate}
+ @keyframes eq{0%{transform:scaleY(.3)}100%{transform:scaleY(1)}}
+ .sweep{fill:none;stroke:url(#cg);stroke-width:1.5;stroke-dasharray:140 1600;animation:sw 7s linear infinite}
+ @keyframes sw{from{stroke-dashoffset:1740}to{stroke-dashoffset:0}}
+ .live{animation:lv 2s ease-in-out infinite}@keyframes lv{50%{opacity:.25}}
+</style>
+<g clip-path="url(#f)"><rect width="600" height="230" fill="#0d0f15"/><rect width="600" height="230" fill="url(#gl)"/><rect x="430" y="110" width="12" height="40" rx="2" fill="url(#cg)" opacity="0.25"><animate attributeName="height" values="40;33;40" dur="3.0s" repeatCount="indefinite"/><animate attributeName="y" values="110;117;110" dur="3.0s" repeatCount="indefinite"/></rect><rect x="452" y="101" width="12" height="49" rx="2" fill="url(#cg)" opacity="0.37"><animate attributeName="height" values="49;40;49" dur="3.4s" repeatCount="indefinite"/><animate attributeName="y" values="101;110;101" dur="3.4s" repeatCount="indefinite"/></rect><rect x="474" y="92" width="12" height="58" rx="2" fill="url(#cg)" opacity="0.49"><animate attributeName="height" values="58;48;58" dur="3.8s" repeatCount="indefinite"/><animate attributeName="y" values="92;102;92" dur="3.8s" repeatCount="indefinite"/></rect><rect x="496" y="83" width="12" height="67" rx="2" fill="url(#cg)" opacity="0.61"><animate attributeName="height" values="67;55;67" dur="4.2s" repeatCount="indefinite"/><animate attributeName="y" values="83;95;83" dur="4.2s" repeatCount="indefinite"/></rect><rect x="518" y="74" width="12" height="76" rx="2" fill="url(#cg)" opacity="0.73"><animate attributeName="height" values="76;62;76" dur="4.6s" repeatCount="indefinite"/><animate attributeName="y" values="74;88;74" dur="4.6s" repeatCount="indefinite"/></rect><rect x="540" y="65" width="12" height="85" rx="2" fill="url(#cg)" opacity="0.85"><animate attributeName="height" values="85;70;85" dur="5.0s" repeatCount="indefinite"/><animate attributeName="y" values="65;80;65" dur="5.0s" repeatCount="indefinite"/></rect><line x1="420" y1="152" x2="560" y2="152" stroke="#1c2030"/></g>
+<rect x=".5" y=".5" width="599" height="229" rx="18" fill="none" stroke="#1c2030"/>
+<rect x=".5" y=".5" width="599" height="229" rx="18" class="sweep"/>
+<circle class="live" cx="40" cy="48" r="4" fill="#22d3ee"/>
+<text x="54" y="52" class="m lab">NOW</text>
+<text x="34" y="122" class="s ti">BNY</text>
+<text x="36" y="156" class="s sub">Software Development Engineer</text>
+<text x="36" y="196" class="m note">SHIPPING AT A BANK FOUNDED IN 1784</text>
+</svg>
