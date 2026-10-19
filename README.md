@@ -15,8 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="metrics/isocalendar.svg" alt="Contribution calendar" width="49%">
-  <img src="metrics/languages.svg" alt="Most used languages" width="49%">
+  <img src="metrics/overview.svg" alt="Contribution calendar, most used languages and notable contributions" width="100%">
 </p>
 
 <br>
@@ -84,17 +83,6 @@ Building AI sales intelligence for revenue teams
 </td>
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="metrics/habits.svg" alt="Coding habits" width="49%">
-  <img src="metrics/lines.svg" alt="Lines of code" width="49%">
-</p>
-<p align="center">
-  <img src="metrics/notable.svg" alt="Notable contributions" width="49%">
-  <img src="metrics/achievements.svg" alt="Achievements" width="49%">
-</p>
 
 <br>
 
